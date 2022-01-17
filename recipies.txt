@@ -3,3 +3,5 @@ kheer
 pasta
 chkn fry
 thankq
+beans
+pizza
